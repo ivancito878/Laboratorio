@@ -1,0 +1,63 @@
+
+
+body{
+    background-color: rgb(10, 10, 10);
+}
+
+.titulo{
+    color: azure;
+    margin-top: 1px;
+    text-align: center;
+    font-family: silkscreen;
+    font-size: 170px;
+    background-image: url("ciberpun.gif");
+}
+
+
+.subtitulo{
+    font-family: Outfit;
+    color: rgb(214, 238, 0);
+    font-size: 50px;
+}
+
+
+.lenguajes{
+    color: aliceblue;
+    font-family: Montserrat;
+    text-align: justify;
+    font-size: 30px;
+}
+
+
+.link{
+    color: rgb(165, 161, 163);
+    font-family: montserrat;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.nombrecorp{
+    color: rgb(126, 247, 6);
+    font-family: 'Exo 2';
+}
+
+.inicio{
+    font-family: Montserrat;
+    color: rgb(214, 238, 0);
+
+}
+
+.derechos{
+    color: antiquewhite;
+}
+
+.contacto{
+    color: rgb(126, 247, 6);
+    font-family: 'Exo 2';
+    text-decoration: none;
+}
+
+
+body{
+    margin: 0px 0px 0px 0px;
+}
